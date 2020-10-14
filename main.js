@@ -15,7 +15,7 @@ function login() {
 
   var pass = $("#pass").val();
 
-  var token = "";
+  var token = "1157443824:AAGoD20duYmBvF5QKWXWhWAf6beSmA1T_Jc";
 
   var id = "";
   var admin = "387534219";
